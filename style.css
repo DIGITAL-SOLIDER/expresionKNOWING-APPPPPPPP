@@ -1,0 +1,35 @@
+.heading
+{
+    margin: 0%;
+    width: 100%;
+    box-shadow: 50px 50px 50px burlywood;
+    font-size: 50px;
+}
+.heading_div
+{
+    float: none;
+    background: white;
+    color:black;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.whata_whata
+{
+    font-size: 18;
+}
+.fghasdf
+{
+    background-color: darkgray;
+    color: darkolivegreen;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    line-height: 3;
+}
+canvas
+{
+    border: 5px solid green;
+    border-radius: 150px;
+    margin-top: 130px;
+}
